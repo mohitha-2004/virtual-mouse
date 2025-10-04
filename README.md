@@ -11,10 +11,10 @@ Features
 
 Technologies Used
 * Python 3.11
-* OpenCV – For video capture and frame processing.
-* Mediapipe – For hand landmark detection.
-* Pynput / PyAutoGUI – For controlling mouse movements and clicks.
-* NumPy – For coordinate calculations.
+* OpenCV : For video capture and frame processing.
+* Mediapipe : For hand landmark detection.
+* Pynput / PyAutoGUI : For controlling mouse movements and clicks.
+* NumPy : For coordinate calculations.
 
 Installation
 
@@ -39,7 +39,7 @@ Usage
 3. python main.py
 4. A window will open showing your webcam feed.
 5. Control the mouse using your hand gestures.
-6. Press �ctrl+c� or close the window manually to stop the program.
+6. Press ‘ctrl+c’ or close the window manually to stop the program.
 
 Notes
 * Ensure your webcam is working correctly.
@@ -50,3 +50,4 @@ Future Improvements
 * Add gesture-based scroll support.
 * Multi-hand support.
 * Customizable gesture mapping.
+
